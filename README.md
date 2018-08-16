@@ -1,4 +1,9 @@
-# Create Thumbnail using Sharp JS Library (Working)
+# Create Thumbnail using Sharp JS Library 
+
+The code here creates a resized copy of the image you upload to an s3 bucket. It triggers on an event in s3 after an upload to a specified bucket and adds the new resized image to another bucket/location in s3.
+
+The example uses:
+uploads-bucket (upload location), and creates a resized copy in another bucket (resized-bucket).
 
 ## Install
 
