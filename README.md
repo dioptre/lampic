@@ -15,6 +15,8 @@ uploads-bucket (upload location), and creates a resized copy in another bucket (
 
 * Set ObjectCreated(All) for S3 in select Lambda (function uploaded)
 
+* Upload the zip to Lambda and test
+
 ## Update Permissions
 
 ### Sample Cors:
