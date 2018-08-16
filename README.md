@@ -2,13 +2,13 @@
 
 ## Install
 
-```npm install to get the pre-requisites```
+* ```npm install``` to get the pre-requisites
 
 * then zip everything (including the node modules)
 
-* Add the lambda function and then setup IAM for user used in sailsjs to upload, and run lambda etc.
+* Add the lambda function and then setup IAM policy to upload, and run lambda etc.
 
-* Set ObjectCreated(All) select Lambda (function uploaded)
+* Set ObjectCreated(All) for S3 in select Lambda (function uploaded)
 
 ## Update Permissions
 

@@ -10,7 +10,7 @@
   "license": "",
   "dependencies": {
     "async": "^1.5.2",
-    "lodash": "^3.10.0",
+    "lodash": "^4.17.5",
     "sharp": "^0.20.5"
   }
 }
